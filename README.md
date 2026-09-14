@@ -153,25 +153,5 @@ VITE_EMAIL_FROM=noreply@petwelfare.com
 - Email notifications
 - PWA capabilities
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-For support, email support@petwelfare.com or join our community discussions.
-
-## 🙏 Acknowledgments
-
-- Icons by [Lucide](https://lucide.dev/)
-- Images from [Pexels](https://pexels.com/)
-- Maps by [OpenStreetMap](https://openstreetmap.org/)
-- Built with [Vite](https://vitejs.dev/) and [React](https://reactjs.org/)
+## Website link
+https://pawcare2745-an2926.netlify.app/
